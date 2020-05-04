@@ -1,0 +1,7 @@
+tensorflow
+numpy
+matplotlib
+pillow
+pyyaml
+h5py
+imageio
